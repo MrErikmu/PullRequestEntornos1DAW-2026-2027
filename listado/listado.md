@@ -5,5 +5,6 @@ Profesor: José Luis González Sánchez
 Módulo: Entornos de Desarrollo
 
 Alumnado: 
+- Ariel Enrique Herrera Sanchez
 - Miguel Ángel Fernández Valenzuela
 - Izan Nikolov Gajero
